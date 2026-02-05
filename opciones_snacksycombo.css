@@ -1,0 +1,215 @@
+.contendedor_logo a img {
+	text-decoration: none;
+	border: none;
+}
+.contendedor_logo {
+	height: 80px;
+	width: 990px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFF;
+}
+.menu_fijo {
+	height: 20px;
+	width: 950px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: Arial, Helvetica, sans-serif;
+	padding-left: 40px;
+	padding-top: 6px;
+	font-size: 12px;
+	color: #004F39;
+}
+.cabezal {
+	height: 230px;
+	width: 920px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.submenu {
+	height: 31px;
+	width: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	padding-top: 5px;
+}
+.contenedor_columnas {
+	height: auto;
+	width: 710px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #4E4E4E;
+	text-align: justify;
+	margin-left: auto;
+}
+.titulos_texto {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 21px;
+	color: #999;
+}
+.legales {
+	height: 50px;
+	width: 990px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	color: #666;
+	background-repeat: no-repeat;
+
+}
+.legales a:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	color: #666;
+	text-decoration: none;
+}
+
+.vinculo_mail {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #999;
+	text-decoration: none;
+}
+.columna_texto {
+	height: auto;
+	width: 540px;
+	margin-right: auto;
+	margin-left: 165px;
+}
+.contendedor_principal {
+	height: 660px;
+	width: 990px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #F7F7F7;
+}
+a:link {
+	color: #1F1F1F;
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #1F1F1F;
+}
+a:hover {
+	text-decoration: none;
+	color: #999;
+}
+a:active {
+	text-decoration: none;
+	color: #CCC;
+}
+.vinculo_volver {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #004F39;
+	text-align: right;
+	margin-left: 500px;
+	font-size: 16px;
+}
+.destacados_texto {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	color: #666;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+.contenedor_volver {
+	font-family: Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	height: 18px;
+	width: 90px;
+	padding-left: 468px;
+	color: #004F39;
+	font-size: 13px;
+	background-image: url(imagenes/iso_volver_gris.png);
+	background-repeat: no-repeat;
+	padding-top: 3px;
+}
+.contenedor_volver2 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	height: 18px;
+	width: 150px;
+	padding-left: 410px;
+	color: #004F39;
+	font-size: 16px;
+	background-image: url(imagenes/iso_volver.png);
+	background-repeat: no-repeat;
+}
+.contenedor_volver3 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	height: 20px;
+	width: 170px;
+	padding-left: 390px;
+	color: #004F39;
+	font-size: 16px;
+	background-image: url(imagenes/iso_volver.png);
+	background-repeat: no-repeat;
+}
+.puntos {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 23px;
+	color: #999;
+	font-weight: bold;
+	margin-right: 8px;
+}
+.link_opciones {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #666;
+	text-decoration: underline;
+}
+.contendedor_principal .contendedor_logo .menu_fijo calidad a:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: #CCC;
+	text-decoration: none;
+}
+.titulos {
+	height: 30px;
+	width: 400px;
+	margin-left: 140px;
+	padding-top: 15px;
+}
+.destacado_texto_exclusivo {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #999;
+	font-size: 13px;
+	font-style: italic;
+}
+.texto_legales_der {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666;
+	text-decoration: none;
+	padding-right: 25px;
+}
+
+.texto_legales_izq {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666;
+	text-decoration: none;
+	padding-left: 35px;
+}
+.texto_consultarenadministracion {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	color: #4E4E4E;
+}
+.texto_desarrolloconespacios {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #4E4E4E;
+	padding-left: 15px;
+}
